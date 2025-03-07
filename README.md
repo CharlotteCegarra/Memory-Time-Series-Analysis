@@ -8,6 +8,7 @@ This project explores the application of the **Critical Slowing Down (CSD) theor
 By applying CSD indicators, we investigate whether early warning signals can help predict crises and systemic risks, evaluating variations in volatility, correlations, and statistical distributions of financial data before major disruptions.
 
 ## 📂 Project Structure
+```
 /Data                  # Contains financial datasets
     ├── BD_indice boursier  # Stock market index data
     ├── BTC-USD            # Bitcoin price data
@@ -17,7 +18,7 @@ By applying CSD indicators, we investigate whether early warning signals can hel
 /Presentation          # Contains presentation materials
 /README.md             # This file
 /Requirements.txt      # List of dependencies
-
+```
 ## 👨‍💻 Contributors
 - **Charlotte Cegarra**
 - **Hella Bouhadda**
